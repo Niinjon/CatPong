@@ -5,6 +5,6 @@ A klasszikus pong játék alapjain nyugvó inkább egy rövid humoros történet
 Irányítás:
 </br>
 </br>
-bal: balranyíl
+bal: balranyíl</br>
 jobb: jobbranyíl
 </br>
